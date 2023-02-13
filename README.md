@@ -36,7 +36,8 @@ Next, the conditional probability of all variables given the class label is chan
 
 This calculation can be performed for each of the class labels, and the label with the largest probability can be selected as the classification for the given instance. This decision rule is referred to as the maximum a posteriori (MAP) decision rule.
 
-TYPES 
+**TYPES**
+<br>
 There are 3 distinct Naive Bases classifier algorithms. As an example, in a case of **sentiment analysis**, we’ll be using these algorithms when the predictors are: 
 - **Bernoulli Naive Bayes**: Independent booleans (binary variables), e.g. if a word occurs in the text or not.
 - **Multinomial Naive Bayes**: Count of word occurence.
