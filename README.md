@@ -23,7 +23,7 @@ The prior P(yi) is easy to estimate from a dataset, but the conditional probab
 
 The solution to using Bayes’ Theorem for a conditional probability classification model is to simplify the calculation.
 
-The Bayes Theorem assumes that each input variable is dependent upon all other variables. This is a cause of complexity in the calculation. We can remove this assumption and consider each input variable as being independent from each other.
+**The Bayes Theorem assumes that each input variable is dependent upon all other variables. This is a cause of complexity in the calculation. We can remove this assumption and consider each input variable as being independent from each other.**
 
 First, the denominator is removed from the calculation as it is a constant used in calculating the conditional probability of each class for a given instance and has the effect of normalizing the result.
 (For all entries in the dataset, the denominator does not change, it remain static. Therefore, the denominator can be removed and a proportionality can be introduced.)
