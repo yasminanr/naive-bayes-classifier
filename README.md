@@ -11,7 +11,7 @@ Naive Bayes classifier is a collection of machine learning models that are used 
 <br>
 The simple form of the calculation for Bayes’ Theorem is:
 <br>
-	![bayes theorem](https://user-images.githubusercontent.com/70214561/218554210-b5e1b558-dcb0-4fd5-9d43-14ffcb0514e3.png)
+	![Bayes Theorem](https://user-images.githubusercontent.com/70214561/219966957-fb1c3335-36b2-48ce-9af8-7b55cb4e7db9.png)
 	
 The probability that we are interested in calculating; P(A|B), is called the posterior probability and the marginal probability of the event; P(A) is called the prior.
 
